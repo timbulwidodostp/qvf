@@ -1,5 +1,5 @@
 # qvf
-Generalized linear models with instrumental variables and fast bootstrap (bootstrapping) With STATA 18
+Generalized linear models with instrumental variables and fast bootstrap (bootstrapping) Use qvf With STATA 18
 
 Olah Data Semarang
 
