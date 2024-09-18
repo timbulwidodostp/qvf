@@ -1,5 +1,14 @@
-d 'DEA': Data envelopment analysis
+d 'qvf': Generalized linear models with instrumental variables and fast bootstrap (bootstrapping) Use qvf With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _crcdeq.ado
+f _qvferr.ado
+f qvf.ado
+f qvf.hlp
+f qvfmex.plugin
+f rcal.ado
+f rcal.hlp
+f simex.ado
+f simex.hlp
+f simexplot.ado
+f simexplot.hlp
+f simexploti.ado
