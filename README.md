@@ -1,6 +1,8 @@
 # qvf
 Generalized linear models with instrumental variables and fast bootstrap (bootstrapping) Use qvf With STATA 18
 
+https://www.youtube.com/watch?v=GVEKFexER20
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
